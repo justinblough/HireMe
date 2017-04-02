@@ -1,38 +1,39 @@
-**Justin Blough**
-Colorado Springs, CO
+**Justin Blough**  
+Colorado Springs, CO  
 **Cell:** 719-659-7464
-**Email:** [jb@syntacticlabs.io](mailto:jb@syntacticlabs.io)
-**LinkedIn:** [justinblough](https://linkedin.com/in/justinblough)
+**Email:** [jb@syntacticlabs.io](mailto:jb@syntacticlabs.io)  
+**LinkedIn:** [justinblough](https://linkedin.com/in/justinblough)  
 **Github:** [justinblough](https://github.com/justinblough)
 
 # Full Stack Web Developer
 
-`Senior Full Stack Developer` `Software Architect & Engineer` `Front-End Engineer` `Back-end Engineer` `Web Application Developer` `Api Developer`
+`Senior Full Stack Developer` `Software Architect & Engineer` `Front-End Engineer`  
+`Back-end Engineer` `Web Application Developer` `Api Developer`
 
 ## Profile
-**Innovative Full Stack Web Developer/Engineer and Architect** - Fifteen years of web engineering/architecture/development/design and internet marketing experience in commercial, and nonprofit industries. Works in the full stack of technical web application software engineering skill sets with strong foundational versatility of roles in his career. Ability to manage multi-disciplinary projects and navigate complex challenges. Strong with both detailed analytical logic processes and intuitive creative thinking and imagination in harmony. 
+**Innovative Full Stack Web Developer/Engineer and Architect** - Fifteen years of web engineering/architecture/development/design and internet marketing experience in commercial, and nonprofit industries. Works in the full stack of technical web application software engineering skill sets with strong foundational versatility of roles in his career. Ability to manage multi-disciplinary projects and navigate complex challenges. Strong with both detailed analytical logic processes and intuitive creative thinking and imagination in harmony.
 
 ## Technical Knowledge
-★ **Principles:** [SDLC, Agile, SCRUM, SOLID, LSD, MVC, MV*, SAAS, SPA];
-★ **Javascript:** [ES6, Node, ReactJS, React Native, Redux, AngularJS, jQuery];
-★ **API:** [GraphQL, REST, Express, Serverless Framework, Sinatra, JSON, XML, AJAX];
-★ **Package/Automation:** [Webpack, Node/NPM, Gulp, Grunt, Bower];
-★ **PHP:** [PSR, Wordpress, Laravel, Lumen, CakePHP, CodeIgniter, Symfony, Magento];
-★ **Amazon Web Services:** [S3, EC2, Lambda, CloudFront, DynamoDB, RDS, IAM, Route53, more…];
-★ **Server:** [EC2, Node, Ubuntu, CentOs, Nginx, Apache (MEAN, LAMP)];
-★ **Provision/Cloud/Virtualization:** [Amazon Web Services, Chef, Docker, Vagrant, Virtualbox];
-★ **Database:** [MongoDB, PostgreSQL, Mysql, SqlServer, DynamoDb, Firebase, SqlLite];
-★ **Testing:** [TDD, BDD, E2E, Jasmine, Chai, Mocha, Enzyme, Angular Mocks, Sinon, xdebug, PHPUnit];
-★ **Versioning:** [Git, Github, Bitbucket, GitLab, TFS, SVN];
-★ **Deployment/CI:** [Code Deploy, Bamboo, Capistrano, Mina, Jenkins, Codeship, Chef];
-★ **Other Languages:** [Java, Ruby, Coldfusion, Actionscript];
-★ **Front End:** [Responsive, HTML5, Javascript, CSS3, SASS, LESS, Bootstrap, Foundation, XML];
+★ **Principles:** [SDLC, Agile, SCRUM, SOLID, LSD, MVC, MV*, SAAS, SPA];  
+★ **Javascript:** [ES6, Node, ReactJS, React Native, Redux, AngularJS, jQuery];  
+★ **API:** [GraphQL, REST, Express, Serverless Framework, Sinatra, JSON, XML, AJAX];  
+★ **Package/Automation:** [Webpack, Node/NPM, Gulp, Grunt, Bower];  
+★ **PHP:** [PSR, Wordpress, Laravel, Lumen, CakePHP, CodeIgniter, Symfony, Magento];  
+★ **Amazon Web Services:** [S3, EC2, Lambda, CloudFront, DynamoDB, RDS, IAM, Route53, more…];  
+★ **Server:** [EC2, Node, Ubuntu, CentOs, Nginx, Apache (MEAN, LAMP)];  
+★ **Provision/Cloud/Virtualization:** [Amazon Web Services, Chef, Docker, Vagrant, Virtualbox];  
+★ **Database:** [MongoDB, PostgreSQL, Mysql, SqlServer, DynamoDb, Firebase, SqlLite];  
+★ **Testing:** [TDD, BDD, E2E, Jasmine, Chai, Mocha, Enzyme, Angular Mocks, Sinon, xdebug, PHPUnit];  
+★ **Versioning:** [Git, Github, Bitbucket, GitLab, TFS, SVN];  
+★ **Deployment/CI:** [Code Deploy, Bamboo, Capistrano, Mina, Jenkins, Codeship, Chef];  
+★ **Other Languages:** [Java, Ruby, Coldfusion, Actionscript];  
+★ **Front End:** [Responsive, HTML5, Javascript, CSS3, SASS, LESS, Bootstrap, Foundation, XML];  
 
 ## Professional Experience
 
 ### Full Stack Web Developer - Colorado Springs, CO
 
-**David C. Cook/Integrity Music**
+**David C. Cook/Integrity Music**  
 Aug. 2015 - Present
 
 - Lead on data asset acquisition of Standard Publishing. Successfully engineered transferring data of 7 web properties and thousands of commerce products, customers, and sales into new platform and internal fulfillment systems.
@@ -43,7 +44,7 @@ Aug. 2015 - Present
 
 ### CTO (Co-Founder) - Colorado Springs, CO
 
-**Narrativ**
+**Narrativ**  
 Aug. 2015 - Aug. 2016
 
 - Won 1st place at Startup Weekend in Colorado Springs in 2015
@@ -51,7 +52,7 @@ Aug. 2015 - Aug. 2016
 
 ### Full Stack Web Developer - Colorado Springs, CO
 
-**Focus on the Family**
+**Focus on the Family**  
 Jul. 2014 - Aug. 2015
 
 - Optimized Odyssey Adventure Club (OAC) Website back-end for performance enhancements minimizing server load profile up to 400% enabling business to welcome Canadian user market.
@@ -74,7 +75,7 @@ Jul. 2014 - Aug. 2015
 
 ### Full Stack Web Developer - Colorado Springs, CO
 
-**Current USA, Inc., Lillian Vernon Brand**
+**Current USA, Inc., Lillian Vernon Brand**  
 Oct. 2012 - Jul. 2014
 
 - Designed and developed 2 fully custom wordpress blog themes and 3 plugins for 2 brands.
@@ -91,7 +92,7 @@ Oct. 2012 - Jul. 2014
 
 ### Owner/President - Colorado Springs, CO
 
-**MindWireMedia**
+**MindWireMedia**  
 Jan. 2002 - Oct. 2012
 
 - Developed, designed & marketed over 20 custom Wordpress sites, 4 e-commerce sites
@@ -108,26 +109,26 @@ Jan. 2002 - Oct. 2012
 
 ### Developer & Consultant (Contractor) - Colorado Springs, CO
 
-**Integrity Data Inc. - Contracted by Robert Half Technology**
+**Integrity Data Inc. - Contracted by Robert Half Technology**  
 Jun. 2012 – Aug. 2012
 
 - Successfully completed 7 CMS migration projects to enterprise platform ahead of schedule.
 
-- Selected for advanced migration and implementation team of 5 leaders to write scripts and queries acquiring advanced backend data from clients prior CMS platform, and formatting for base importing into new Enterprise CMS platform. 
+- Selected for advanced migration and implementation team of 5 leaders to write scripts and queries acquiring advanced backend data from clients prior CMS platform, and formatting for base importing into new Enterprise CMS platform.
 
 ### Webmaster/Multimedia Expert - Colorado Springs, CO
 
-**GMDC**
+**GMDC**  
 Dec. 2004 - Feb 2006
 
 ### College Instructor - Colorado Springs, CO
 
-**Pikes Peak Community College**
+**Pikes Peak Community College**  
 S1 2004 & S1 2007
 
 ### Intern Designer & Developer - Colorado Springs, CO
 
-**30 dps**
+**30 dps**  
 Dec. 2002 to Dec. 2003
 
 ## Education
@@ -135,13 +136,14 @@ Dec. 2002 to Dec. 2003
 
 ### Community Outreach
 
-- **Volunteer - The Salvation Army**
+- **Volunteer - The Salvation Army**  
 Nov. & Dec. Each Year
 
-    - Serve and deliver meals to community on Thanksgiving and Christmas holiday.
+    - Serve and deliver meals to community on Thanksgiving and Christmas holiday.  
 
-- **Volunteer - Colorado Black Forest Fire 2013 Facebook Page**	     	      
-Jun. 2013 – Aug. 2013. 
+
+- **Volunteer - Colorado Black Forest Fire 2013 Facebook Page**      
+Jun. 2013 – Aug. 2013.
 
     - Averaged 8 hours a day updating site during the course of the fire
 
@@ -153,8 +155,3 @@ Jun. 2013 – Aug. 2013.
 May 2010 – Aug. 2010
 
     - Assisted in building low income housing projects in Woodland Park , Divide, and Cripple Creek Colorado.
-
-
-
-
-
